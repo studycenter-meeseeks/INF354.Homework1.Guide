@@ -1,4 +1,4 @@
-# INF354.Homework1.Guide
+# INF354 Homework 1 Guide
 This is the source code used in the INF 354 Homework 1 Guide
 
 The guide for this source code is freely accessable on the StudyCenter Portal. Log in [here](https://portal.studycenter.co.za/)
